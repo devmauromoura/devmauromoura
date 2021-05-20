@@ -1,4 +1,6 @@
 # 👋 Olá visitante!
+![Profile views](https://gpvc.arturio.dev/devmauromoura)
+
 ##### Me chamo **Mauro**, sou desenvolvedor *Mobile* e *Backend*. 
 
 ##### 🎓 Formação
