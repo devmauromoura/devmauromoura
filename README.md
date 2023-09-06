@@ -1,27 +1,50 @@
-# 👋 Olá visitante!
-![Profile views](https://gpvc.arturio.dev/devmauromoura)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/46508633?v=4" height=200 alt="Foto de Perfil">
+</p>
 
-##### Me chamo **Mauro**, sou desenvolvedor *Mobile* e *Backend*. 
+# Mauro P. Moura
+Senior Mobile Developer
 
-##### 🎓 Formação
- - Análise e Desenvolvimento de Sistemas.
- - Pós-graduando em Projetos de Aplicativos Móveis Multiplataforma.
+🌍 Localização: Sinop, MT
 
-##### 👨‍💻 Trabalho Atual
-- Desenvolvedor de Aplicativos Móveis na [Aditiva Sistemas](https://aditiva-sistemas.com.br/).
+📧 [Email](mailto:devmauromoura@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/devmauromoura/)
 
-##### 🤹 Tecnologias e Ferramentas
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Sou um entusiasta de desenvolvimento que busca sempre evoluir e contribuir para a área de tecnologia. Minha jornada é marcada pela busca constante de conhecimento, aprimoramento de habilidades e colaboração em projetos.
 
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+## Habilidades
 
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- 💻 ReactJS | React Native | Typescript | Laravel | PHP | Ionic Cordova
+- 🛠️ Google Play | App Store | Figma
 
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+## Projetos Destacados
 
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+Alguns dos projetos que trabalhei incluem:
 
-[![](https://github-readme-stats.vercel.app/api?username=devmauromoura)](https://github.com/anuraghazra/github-readme-stats)
+_**Importante:** Por restrições contratuais na prestação dos serviços, o nome, imagem e link dos projetos não serão informados_.
 
-##### 📞 Contato
-[![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmauromoura@gmail.com) [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmauromoura)
+- **TS. Central**: APP desenvolvido em React Native para facilitar acesso do cliente final á informações sobre o produto adquirido, faturas, chamados e informações úteis de contato.
+- **TS. Técnico**: App desenvolvido em React Native destinado a uso de técnicos externos, incluindo acompanhamento de rotas, gerenciamento de arquivos, offline first e diversas integrações direcionadas a área de telecom.
+- **TS. Meu T.**:  APP desenvolvido em React Native para facilitar acesso do cliente primário para gestão de seus produtos, visualização de manuais e vídeo aulas.
+- **TS. I**:  APP desenvolvido em React Native para uso em totem de atendimento, integrado nativamente com impressoras termais e PINPADs para pagamento com cartão.
+- **TU. TS**: APP desenvolvido em React Native para gestão de chips de telefonia, vendas, relatórios e gráficos para área comercial em campo.
+- **TU. PF**: App desenvolvido em React Native para avaliação de smartphones para trocas, o mesmo é composto por diversos testes de hardwares, sendo teste de pixels, touch, microfone, auto falantes e etc. Também com integrações nativas para alguns recursos como por exemplo, sensores.
+- **AD. PE**: App desenvolvido em React Native para monitoramento de eventos reincidentes por áreas de afetação usando o Google Maps.
+- **AD. PM**: App desenvolvido em React Native manipulação de ordens de serviço, incluindo offline first e sincronização de arquivos.
+- **AD. ST**: App desenvolvido em React Native para realizar monitoramento de ativos, inclui integração nativa para funcionamento de câmera em todos os planos.
+- **AD. WS**: App desenvolvido em React JS para intepretação de mapas elaborados em SVG, com modificação de cor e seleção de itens.
+
+**Em 80% dos projetos** fui responsável pelo processo de deploy nas lojas, sendo distribuições públicas e privadas. Incluíndo também distribuições não oficiais, mas privadas em cloud, como por exemplo, a AWS.
+
+## Estatísticas do GitHub
+_Os dados listados nesse card não correspondem aos projetos executados, todos os listados anteriormente estão em repositórios privados no Github e Bitbucket._
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devmauromoura&show_icons=true&theme=dark)
+
+## Contato
+
+📧 [Email](mailto:devmauromoura@gmail.com) 
+💼 [LinkedIn](https://www.linkedin.com/in/devmauromoura/)
+
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos ou apenas para uma conversa técnica interessante!
+
+Obrigado por visitar meu perfil do GitHub!
