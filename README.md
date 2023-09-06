@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/46508633?v=4" height=200 alt="Foto de Perfil">
-</p>
-
 # Mauro P. Moura
 Senior Mobile Developer
 
